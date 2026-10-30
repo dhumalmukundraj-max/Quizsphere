@@ -317,3 +317,4 @@ CREATE POLICY "Results insertable by host or service role"
     WITH CHECK (
         host_id = auth.uid() OR auth.role() = 'service_role'
     );
+

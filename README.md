@@ -167,3 +167,4 @@ The included `vercel.json` ensures that single-page application (SPA) client-sid
 
 ## 📄 License
 MIT License. Created for online examination management and academic evaluation.
+
