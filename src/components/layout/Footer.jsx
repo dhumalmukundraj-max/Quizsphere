@@ -69,7 +69,7 @@ export default function Footer() {
         <div className="border-t border-slate-800 pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
           <p>&copy; {new Date().getFullYear()} QuizSphere. All rights reserved.</p>
           <p className="flex items-center gap-1">
-            Engineered with high security, privacy & responsiveness.
+            Mukundraj Dhumal
           </p>
         </div>
       </div>
